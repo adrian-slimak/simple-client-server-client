@@ -1,4 +1,4 @@
-# Local and remote 
+# Simple remote device access
 
 ## Description:
 
